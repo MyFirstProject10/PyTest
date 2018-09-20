@@ -8,7 +8,9 @@ Welcome to PyTest's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
+
+   source source/modules
 
 
 
